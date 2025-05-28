@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/css/style.css">
 ---
 layout: none  # Отключаем шаблон (если не используем Jekyll)
 title: Брызгун
