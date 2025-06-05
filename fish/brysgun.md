@@ -42,5 +42,3 @@
    });
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/102262586" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-</body>
-</html>
